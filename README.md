@@ -1,1 +1,1 @@
-# project-1 Prject for Coursera
+# project-1 Project for Coursera
